@@ -1,0 +1,8 @@
+The highest probability for being on schedule:
+CO	33.2888862958209
+PS	32.638362153664765
+UA	25.227987495377995
+The lowest probability for being on schedule:
+HP	17.8883008418749
+AA	18.490686247378683
+PA (1)	18.81063765488063

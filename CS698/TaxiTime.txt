@@ -1,0 +1,8 @@
+The longest average taxi time per flight:
+JFK	41.58602546655456
+EWR	36.17169836712722
+LGA	36.01894829871851
+The shortest average taxi time per flight:
+BRW	8.55148095909732
+OTZ	9.374384236453203
+OME	9.71694417238002
